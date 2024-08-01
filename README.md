@@ -1,3 +1,7 @@
+[![doi](https://img.shields.io/badge/DOI-10.17605/OSF.IO/H4AG3-blue)][doi]
+
+[doi]: https://doi.org/10.17605/OSF.IO/H4AG3
+
 # Progress Stalled? The Uncertain Future of Mortality in High-Income Countries
 
 ## Purpose of This Repository
